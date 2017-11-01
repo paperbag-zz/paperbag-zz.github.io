@@ -1,0 +1,22 @@
+[
+  {
+    "action": "talk",
+    "voiceName" : "Gwyneth",
+    "text": "Hello My name is Gwyneth, this is me speaking English"
+  },
+  {
+    "action": "talk",
+    "voiceName" : "Geraint",
+    "text": "Hello My name is Geraint, this is me speaking English"
+  },
+  {
+    "action": "talk",
+    "voiceName" : "Gwyneth",
+    "text": "Helo Fy enw i yw Gwyneth, dwi'n siarad Cymraeg"
+  },
+  {
+    "action": "talk",
+    "voiceName" : "Geraint",
+    "text": "Helo Fy enw i yw Geraint, dwi'n siarad Cymraeg"
+  }
+]
