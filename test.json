@@ -1,8 +1,8 @@
 [
   {
     "action": "talk",
-    "voiceName" : "Eric",
-    "text": "Hello My name is Eric, this is me speaking English, one, two, three, Eric"
+    "voiceName" : "Carmen",
+    "text": "Hello My name is Carmen, this is me speaking English, one, two, three, Carmen"
   },
   {
     "action": "talk",
