@@ -6,8 +6,8 @@
   },
   {
     "action": "talk",
-    "voiceName" : "Chipmunk",
-    "text": "Hello My name is Chipmunk, this is me speaking English, one two, three, Chipmunk"
+    "voiceName" : "Geraint",
+    "text": "Hello My name is Geraint, this is me speaking English, one two, three, Geraint"
   },
   {
     "action": "talk",
@@ -16,7 +16,7 @@
   },
   {
     "action": "talk",
-    "voiceName" : "Justin",
-    "text": "Hello My name is Justin, this is me speaking English, one two three, Justin"
+    "voiceName" : "Maxim",
+    "text": "Hello My name is Maxim, this is me speaking English, one two three, Maxim"
   }
 ]
