@@ -2,21 +2,21 @@
   {
     "action": "talk",
     "voiceName" : "Eric",
-    "text": "Hello My name is Eric, this is me speaking English"
+    "text": "Hello My name is Eric, this is me speaking English, one, two, three, Eric"
   },
   {
     "action": "talk",
     "voiceName" : "Chipmunk",
-    "text": "Hello My name is Chipmunk, this is me speaking English"
+    "text": "Hello My name is Chipmunk, this is me speaking English, one two, three, Chipmunk"
   },
   {
     "action": "talk",
-    "voiceName" : "Gwyneth",
-    "text": "Helo Fy enw i yw Gwyneth, dwi'n siarad Cymraeg"
+    "voiceName" : "Chipmunk",
+    "text": "Hello My name is Chipmunk, this is me speaking English again, one two Chipmunk"
   },
   {
     "action": "talk",
-    "voiceName" : "Geraint",
-    "text": "Helo Fy enw i yw Geraint, dwi'n siarad Cymraeg"
+    "voiceName" : "Justin",
+    "text": "Hello My name is Justin, this is me speaking English, one two three, Justin"
   }
 ]
