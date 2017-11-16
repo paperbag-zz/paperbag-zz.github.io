@@ -12,8 +12,10 @@
 </menu>
 <form id="ok">
 <block>
+  <filled>
 <prompt>You've selected ok.</prompt>
 <submit next="https://requestb.in/12tft2v1" method="post" namelist="from" enctype="multipart/form-data"/>
+  </filled>
 </block>
 </form>
 <form id="nok">
