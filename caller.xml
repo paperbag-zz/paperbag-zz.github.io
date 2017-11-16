@@ -1,0 +1,24 @@
+<vxml version="2.1">
+<var name="callerid" expr="session.callerid"/>
+<var name="answer"/>
+<menu dtmf="true">
+<property name="inputmodes" value="dtmf"/>
+<!--
+<audio src="http://prod.delegen.com:2604/alarm-targil.mp3"/>
+-->
+<prompt>For ok press 1, For not ok press 2.</prompt>
+<choice dtmf="1" next="#ok"/>
+<choice dtmf="2" next="#nok"/>
+</menu>
+<form id="ok">
+<block>
+<prompt>You've selected ok.</prompt>
+<submit next="https://requestb.in/12tft2v1" method="post" namelist="callerid" enctype="multipart/form-data"/>
+</block>
+</form>
+<form id="nok">
+<block>
+<prompt>You've selected not ok.</prompt>
+</block>
+</form>
+</vxml>
