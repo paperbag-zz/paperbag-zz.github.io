@@ -1,13 +1,13 @@
 [
   {
     "action": "talk",
-    "voiceName" : "Carmen",
-    "text": "Hello My name is Carmen, this is me speaking English, one, two, three, Carmen"
+    "voiceName" : "Justin",
+    "text": "Hello My name is Justin, this is me speaking English, one, two, three, Carmen"
   },
   {
     "action": "talk",
     "voiceName" : "Geraint",
-    "text": "Hello My name is Geraint, this is me speaking English, one two, three, Geraint"
+    "text": "Hello My name is Gerain, this is me speaking English, one two, three, Geraint"
   },
   {
     "action": "talk",
