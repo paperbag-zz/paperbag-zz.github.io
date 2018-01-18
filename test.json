@@ -1,22 +1,18 @@
 [
-  {
-    "action": "talk",
-    "voiceName" : "Justin",
-    "text": "Hello My name is Justin, this is me speaking English, one, two, three, Carmen"
-  },
-  {
-    "action": "talk",
-    "voiceName" : "Geraint",
-    "text": "Hello My name is Gerain, this is me speaking English, one two, three, Geraint"
-  },
-  {
-    "action": "talk",
-    "voiceName" : "Chipmunk",
-    "text": "Hello My name is Chipmunk, this is me speaking English again, one two Chipmunk"
-  },
-  {
-    "action": "talk",
-    "voiceName" : "Maxim",
-    "text": "Hello My name is Maxim, this is me speaking English, one two three, Maxim"
-  }
+{
+  "action": "talk",
+  "text": "Please wait while we connect you."
+},
+{
+  "endpoint": [
+    {
+      "number": "447734932021",
+      "type": "phone"
+    }
+  ],
+  "action": "connect",
+  "from": "447520619010",
+  "machineDetection": "hangup",
+  "timeout": 20
+}
 ]
