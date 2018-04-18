@@ -1,7 +1,13 @@
 [
     {
-        "action": "talk",
-        "text": "Welcome to a Voice API I V R.",
-        "voiceName": "Amy"
-        }
+        "action": "connect",
+        "eventUrl": ["http://f5261a29.ngrok.io"],
+        "from": "447520619010",
+        "endpoint": [
+          {
+            "type": "phone",
+            "number": "447734943021"
+          }
+        ]
+    }
 ]
