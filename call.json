@@ -1,7 +1,8 @@
 [
     {
         "action": "connect",
-        "eventUrl": ["http://f5261a29.ngrok.io"],
+        "eventUrl": ["http://de43f7f1.ngrok.io"],
+        "eventType":"synchronous",
         "from": "447520619010",
         "endpoint": [
           {
