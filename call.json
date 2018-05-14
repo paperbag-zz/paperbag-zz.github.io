@@ -1,17 +1,2 @@
-[
-  {
-  "action": "record",
-  "eventUrl": ["http://de43f7f1.ngrok.io"]
-  },
-  {
-        "action": "connect",
-        "eventUrl": ["http://de43f7f1.ngrok.io"],
-        "from": "447520619010",
-        "endpoint": [
-          {
-            "type": "phone",
-            "number": "447734943021"
-          }
-          ]
-    }
-]
+[{"action":"talk","text":"Please wait while we connect you."},{"action":"connect","timeout":20,"from":"447520619010","endpoint":[{"type":"phone","number":"447734943021"}]}]
+
